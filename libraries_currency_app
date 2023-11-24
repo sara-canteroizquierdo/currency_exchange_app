@@ -1,0 +1,7 @@
+#libraries that were used in the CURRENCY CONVERTER APP
+
+streamlit = 1.28.2
+pandas = 1.5.3
+plotly.express = 0.4.1
+folium = 0.14.0
+streamlit_folium = 0.16.0
